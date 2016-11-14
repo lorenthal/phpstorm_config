@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="PHP Documentor (ViewOffice)" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\php\php.exe" />
+      <option name="PARAMETERS" value="C:/php/phpdocumentor/phpDocumentor-2.8.5/bin/phpdoc -d &quot;c:/web/ViewOffice/class&quot; -t &quot;c:/web/ViewOffice_doc&quot;" />
+      <option name="WORKING_DIRECTORY" value="C:/php" />
+    </exec>
+  </tool>
+</toolSet>
