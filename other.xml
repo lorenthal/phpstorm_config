@@ -64,6 +64,30 @@
     <option name="EXTRACT_METHOD_DEFAULT_VISIBILITY" value="private" />
     <option name="MOVE_CLASS_SEARCH_IN_COMMENTS_AND_STRINGS" value="true" />
   </component>
+  <component name="RecentTaskRepositories">
+    <Trello shared="false">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="currentBoard">
+        <TrelloBoard id="53df3db3ce8103582eb823dd" name="Current development" />
+      </option>
+      <option name="currentList">
+        <TrelloList id="55fc402e1086b27768d9cf18" name="In Progress (Sergi)" />
+      </option>
+      <option name="currentUser">
+        <TrelloUser id="53db872e1c5c1a1d4e3a00cf" name="sergimiranda" />
+      </option>
+      <password>dfc8df9ddf9cdf9fdfc8dfcfdf9bdfc8df98df9bdf9edf9ddf98df9adf98dfcfdfcedf9bdfc9dfc8dfc8df9ddf98dfccdfcbdf92dfcfdf98df92dfc9df9bdf92df9adfcbdfccdf9cdf92df9fdf9adfcfdfcedfccdf9bdf9ddf9fdf9cdf99df9cdfccdf9edf92df93df92dfccdf99df9ddf98dfc8dfcedfcedfc9dfcfdf92df9c</password>
+      <option name="includeAllCards" value="false" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="url" value="https://api.trello.com" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username />
+    </Trello>
+  </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" />
   </component>
