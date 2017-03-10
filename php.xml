@@ -346,4 +346,9 @@
       </interpreter>
     </phpInfoCache>
   </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <phpunit_by_interpreter interpreter_id="d1df40ce-ee0f-4714-8202-0665c56b316e" load_method="CUSTOM_LOADER" bootstrap_file_path="/vagrant/test/bootstrap.php" custom_loader_path="/vagrant/vendor/autoload.php" use_bootstrap_file="true" />
+    </phpunit_settings>
+  </component>
 </application>
