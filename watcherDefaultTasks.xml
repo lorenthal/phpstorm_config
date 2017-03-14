@@ -39,20 +39,20 @@
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="--compass --no-cache --update $FileName$:$FileParentDir$/css/$FileNameWithoutExtension$.css" />
+      <option name="arguments" value="--compass --no-cache --update $FileName$:$FileParentDir$/css/$FileNameWithoutExtension$.css " />
       <option name="checkSyntaxErrors" value="true" />
-      <option name="description" value="Compila los archivos .scss de la virtual shop de Condal Chef en CSS" />
+      <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="scss" />
-      <option name="immediateSync" value="false" />
+      <option name="immediateSync" value="true" />
       <option name="name" value="Virtual Shop - Condal Chef SCSS" />
       <option name="output" value="$FileParentDir$/css/$FileNameWithoutExtension$.css" />
       <option name="outputFilters">
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="C:/Ruby22/bin/sass.bat" />
-      <option name="scopeName" value="Condal Chef SCSS" />
+      <option name="program" value="C:/tools/ruby23/bin/sass.bat" />
+      <option name="scopeName" value="All Places" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
       <envs />
