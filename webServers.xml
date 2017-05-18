@@ -4,6 +4,9 @@
       <webServer id="db6de249-b3e4-4e4b-a185-78c70cf5c746" name="test-screen-tickets-carlos-navas" url="http://localhost/test-screen-tickets">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="5747958f-191c-4f2e-a0be-21a13ac1e90e" name="localhost" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
