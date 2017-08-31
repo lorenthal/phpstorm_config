@@ -11,7 +11,7 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="C:\php\php.exe" id="fc5a5f32-9550-487a-9a1f-6063029064ea" name="php5.6" debugger_id="php.debugger.XDebug" />
+      <interpreter home="C:\php\php.exe" id="fc5a5f32-9550-487a-9a1f-6063029064ea" name="php5.6" debugger_id="php.debugger.XDebug" debugger_extension="php_xdebug-2.5.5-5.6-vc11.dll" />
       <interpreter home="vagrant://C:\web\ViewOffice/usr/bin/php" id="d1df40ce-ee0f-4714-8202-0665c56b316e" name="Remote PHP 5.6" debugger_id="php.debugger.XDebug">
         <remote_data VAGRANT_FOLDER="C:\web\ViewOffice" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
