@@ -1,7 +1,7 @@
 <application>
   <component name="MessDetector">
     <phpmd_settings>
-      <MessDetectorConfiguration />
+      <MessDetectorConfiguration tool_path="C:\web\ViewOffice\vendor\bin\phpmd.bat" />
     </phpmd_settings>
   </component>
   <component name="PhpCodeSniffer">
