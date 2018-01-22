@@ -1,0 +1,9 @@
+<application>
+  <component name="DockerRegistry">
+    <DockerRegistry email="sergi@icssolution.com">
+      <option name="address" value="dockerhub.icssolution.com" />
+      <option name="name" value="ICS Docker Registry" />
+      <option name="username" value="root" />
+    </DockerRegistry>
+  </component>
+</application>
