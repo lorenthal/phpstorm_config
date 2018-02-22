@@ -8,6 +8,7 @@
       <mapping ext="old" type="PHP" />
       <mapping pattern="TransaccionesAENA.php" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
+      <mapping ext="trd" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
