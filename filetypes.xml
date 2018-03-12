@@ -6,6 +6,7 @@
       <mapping pattern="registerAccessModalParkingController.js" type="JavaScript" />
       <mapping ext="html" type="PHP" />
       <mapping ext="old" type="PHP" />
+      <mapping pattern="htaccess_default" type="PLAIN_TEXT" />
       <mapping pattern="TransaccionesAENA.php" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping ext="trd" type="PLAIN_TEXT" />
