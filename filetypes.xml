@@ -10,6 +10,8 @@
       <mapping pattern="TransaccionesAENA.php" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping ext="trd" type="PLAIN_TEXT" />
+      <mapping ext="sql" type="PLAIN_TEXT" />
+      <removed_mapping ext="sql" type="SQL" />
     </extensionMap>
   </component>
 </application>
