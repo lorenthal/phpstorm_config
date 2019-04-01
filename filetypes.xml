@@ -4,6 +4,7 @@
     <extensionMap>
       <removed_mapping ext="html" type="HTML" />
       <mapping pattern="registerAccessModalParkingController.js" type="JavaScript" />
+      <mapping pattern="FacturaTickets" type="PHP" />
       <mapping ext="html" type="PHP" />
       <mapping ext="old" type="PHP" />
       <mapping pattern="htaccess_default" type="PLAIN_TEXT" />
