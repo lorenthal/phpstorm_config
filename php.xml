@@ -1,19 +1,18 @@
 <application>
   <component name="MessDetector">
+    <phpmd_settings_migrated />
     <phpmd_settings>
-      <MessDetectorConfiguration tool_path="C:\web\ViewOffice\vendor\bin\phpmd.bat" />
+      <MessDetectorConfiguration tool_path="C:/web/ViewOffice/vendor/bin/phpmd" />
     </phpmd_settings>
   </component>
   <component name="PhpCodeSniffer">
-    <phpcs_settings>
-      <PhpCSConfiguration />
-    </phpcs_settings>
+    <phpcs_settings_migrated />
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="C:\php\php.exe" id="fc5a5f32-9550-487a-9a1f-6063029064ea" name="php5.6" debugger_id="php.debugger.XDebug" debugger_extension="php_xdebug-2.5.5-5.6-vc11.dll" />
-      <interpreter home="vagrant://C:\web\ViewOffice/usr/bin/php" id="d1df40ce-ee0f-4714-8202-0665c56b316e" name="Remote PHP 5.6" debugger_id="php.debugger.XDebug">
-        <remote_data VAGRANT_FOLDER="C:\web\ViewOffice" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+      <interpreter id="fc5a5f32-9550-487a-9a1f-6063029064ea" name="php5.6" home="C:\php\php.exe" debugger_id="php.debugger.XDebug" debugger_extension="php_xdebug-2.5.5-5.6-vc11.dll" />
+      <interpreter id="d1df40ce-ee0f-4714-8202-0665c56b316e" name="Remote PHP 5.6" home="vagrant://DATA" debugger_id="php.debugger.XDebug">
+        <remote_data VAGRANT_FOLDER="C:/web/ViewOffice" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" />
       </interpreter>
     </interpreters>
   </component>

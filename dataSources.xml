@@ -1,5 +1,5 @@
 <application>
-  <component name="dataSourceStorage" format="xml">
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
     <data-source source="LOCAL" name="MySQL - test_gis_bcn@localhost" uuid="cc0ded4f-f47c-490f-a460-c709ebe2b168">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
