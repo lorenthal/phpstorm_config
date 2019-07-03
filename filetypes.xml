@@ -7,8 +7,10 @@
       <mapping ext="html" type="PHP" />
       <mapping ext="old" type="PHP" />
       <mapping pattern="htaccess_imgs_default" type="PLAIN_TEXT" />
+      <mapping pattern="passbook_real" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="htaccess_default" type="PLAIN_TEXT" />
+      <mapping pattern="passbook" type="PLAIN_TEXT" />
       <mapping pattern="TransaccionesAENA.php" type="PLAIN_TEXT" />
       <mapping ext="trd" type="PLAIN_TEXT" />
       <mapping ext="1140" type="SQL" />
