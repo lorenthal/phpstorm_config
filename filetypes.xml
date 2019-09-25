@@ -1,21 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <removed_mapping ext="html" approved="true" type="HTML" />
-      <mapping pattern="registerAccessModalParkingController.js" type="JavaScript" />
       <mapping ext="html" type="PHP" />
-      <mapping ext="old" type="PHP" />
-      <mapping pattern="htaccess_imgs_default" type="PLAIN_TEXT" />
-      <mapping pattern="passbook_real" type="PLAIN_TEXT" />
-      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
-      <mapping pattern="htaccess_default" type="PLAIN_TEXT" />
-      <mapping pattern="passbook" type="PLAIN_TEXT" />
-      <mapping pattern="TransaccionesAENA.php" type="PLAIN_TEXT" />
-      <mapping ext="trd" type="PLAIN_TEXT" />
-      <mapping ext="1140" type="SQL" />
-      <removed_mapping ext="html" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="FacturaTickets" approved="true" type="PHP" />
+      <removed_mapping ext="html" approved="true" type="HTML" />
     </extensionMap>
   </component>
 </application>
