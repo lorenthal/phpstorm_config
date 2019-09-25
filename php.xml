@@ -5,9 +5,4 @@
   <component name="PhpCodeSniffer">
     <phpcs_settings_migrated />
   </component>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter id="46d0bc40-ae64-4658-a2e7-c5c3fedabcd5" name="PHP" home="C:\php\php.exe" debugger_id="php.debugger.XDebug" />
-    </interpreters>
-  </component>
 </application>
