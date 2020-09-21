@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1f0de0a7-4008-4cec-ab09-ac32b87586a3" name="Prestashop" url="http://localhost/prestashop">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
+    </option>
+  </component>
+</application>
